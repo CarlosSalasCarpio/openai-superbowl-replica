@@ -13,8 +13,8 @@ This project replicates OpenAI's $14 million, 60-second Super Bowl ad effect usi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd Bouncing
+   git clone https://github.com/CarlosSalasCarpio/openai-superbowl-replica.git
+   cd openai-superbowl-replica/Bouncing
    ```
 2. Install dependencies:
    ```bash
